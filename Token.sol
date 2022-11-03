@@ -1,9 +1,9 @@
 pragma solidity >=0.4.22 <0.6.0;
 
-contract ERC20MyToken {
+contract DummyERC20Token {
 
-    string public constant name = "ERC20MyToken";
-    string public constant symbol = "MTC";
+    string public constant name = "DummyERC20Token";
+    string public constant symbol = "DUM";
     uint8 public constant decimals = 18;  
 
 
